@@ -1,0 +1,10 @@
+{
+    "snyk.severity": {
+        "critical": false,
+        "high": false,
+        "medium": false,
+        "low": false
+    },
+    "snyk.features.codeQuality": false,
+    "snyk.features.codeSecurity": false
+}
